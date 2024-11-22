@@ -1,6 +1,7 @@
 # 💫 About Me:
+<div style="font-family: 'Arial', sans-serif; line-height: 1.6;">
 ### About Me<br><br>I’m a passionate, dedicated individual with a deep love for technology and problem-solving. As a consistent hard worker, I approach every challenge with enthusiasm and determination, always striving to do my best. I find joy in continuously learning new technologies and adapting to the ever-changing landscape of the tech world.  <br><br>Programming isn’t just a skill for me; it’s a way of thinking and creating. I thrive on solving complex problems and bringing innovative ideas to life through development. I’m constantly exploring new tools, languages, and frameworks to expand my toolkit, always eager to improve and evolve as a developer.  <br><br>In addition to my development skills, I’m highly interested in networking and cybersecurity. These fields fascinate me due to their complexity and the importance they hold in securing the digital world. I’m committed to staying at the forefront of these areas, continuously learning and contributing to solutions that safeguard and optimize networks.  <br><br>Overall, I’m someone who embraces every opportunity to grow, create, and explore. With a blend of creativity, technical expertise, and an eagerness to learn, I’m driven to make meaningful contributions to the tech industry.
-
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sdfsdf) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mohammad Rakib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sdf) 
