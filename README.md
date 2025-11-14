@@ -1,8 +1,6 @@
 <!-- Banner/Intro -->
 <h1 align="center">Hi 👋, I'm Rakib :) </h1>
 <h3 align="center">Turning Ideas into Impact Through Code</h3>
-<p align="center">A passionate Web backend & Android developer from Bangladesh</p>
-
 ---
 
 <!-- Badges -->
