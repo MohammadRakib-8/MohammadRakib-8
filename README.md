@@ -19,7 +19,6 @@
 
 - 🌱 Learning **Laravel, Tailwind CSS, Firebase Authentication, PL/SQL, Clean Architecture (Android)**
 - 💬 Ask me about **PHP, JavaScript, kotlin, java, Firebase, PL/SQL, Android Development, MySQL, Oracle**
-- 🎯 Goal: Become a **Full-Stack Developer & Mobile App Engineer**
 - 🧩 Passionate about **solving problems and building scalable systems**
 - 🎮 Built a **Treasure Collector Game (OpenGL + C++)**
 
