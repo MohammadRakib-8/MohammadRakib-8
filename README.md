@@ -1,7 +1,7 @@
 <!-- Banner/Intro -->
 <h1 align="center">Hi 👋, I'm Rakib</h1>
 <h3 align="center">Turning Ideas into Impact Through Code</h3>
-<p align="center">A passionate full-stack & Android developer from Bangladesh</p>
+<p align="center">A passionate Web backend & Android developer from Bangladesh</p>
 
 ---
 
@@ -17,11 +17,10 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Lost & Found Management System, Smart HR System, Chat Web App**
 - 🌱 Learning **Laravel, Tailwind CSS, Firebase Authentication, PL/SQL, Clean Architecture (Android)**
-- 💬 Ask me about **PHP, JavaScript, Firebase, PL/SQL, Android Development, MySQL, Oracle**
+- 💬 Ask me about **PHP, JavaScript, kotlin, java, Firebase, PL/SQL, Android Development, MySQL, Oracle**
 - 🎯 Goal: Become a **Full-Stack Developer & Mobile App Engineer**
-- 🧩 Passionate about **solving problems, UI/UX, and building scalable systems**
+- 🧩 Passionate about **solving problems and building scalable systems**
 - 🎮 Built a **Treasure Collector Game (OpenGL + C++)**
 
 ---
@@ -110,11 +109,11 @@ Batch-based chat, real-time messaging, auto room creation.
 
 ---
 
-## 🐍 Contribution Snake (Optional)
+## 🐍 Contribution Snake 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">⭐ Thanks for visiting my profile :) ! ⭐</h3>
